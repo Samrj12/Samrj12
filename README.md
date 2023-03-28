@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rudraksh</h1>
 <h3 align="center">An aspiring programmer, game and web developer.</h3>
-<img align = "right" alt="while(alive): code()" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2FCETDesigner-cet-designer-developer-experience-f7N5BcrJl7UceIfS2i&psig=AOvVaw0H8avtfZz1FY6GSW1dXjw3&ust=1680048438630000&source=images&cd=vfe&ved=2ahUKEwik7bGkqv39AhW3tYkEHYpgBfEQjRx6BAgAEAo">
+<img align = "right" alt="while(alive): code()" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2FCETDesigner-cet-designer-developer-experience-f7N5BcrJl7UceIfS2i&psig=AOvVaw0H8avtfZz1FY6GSW1dXjw3&ust=1680048438630000&source=images&cd=vfe&ved=2ahUKEwik7bGkqv39AhW3tYkEHYpgBfEQjRx6BAgAEAo](https://giphy.com/stickers/CETDesigner-cet-designer-developer-experience-f7N5BcrJl7UceIfS2i)](https://giphy.com/stickers/CETDesigner-code-developer-software-development-lnaoFgGrDHnivdu5Bc)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrj12&label=Profile%20views&color=0e75b6&style=flat" alt="samrj12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rudraksh_j08" target="blank"><img src="https://img.shields.io/twitter/follow/rudraksh_j08?logo=twitter&style=for-the-badge" alt="rudraksh_j08" /></a> </p>
