@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and Catrobat**
 
-- 💬 Ask me about **React, Unity and Games!**
+- 💬 Ask me about **Java, Unity and Games!**
 
 - 📫 How to reach me **rudrakshjadhav@gmail.com**
 
