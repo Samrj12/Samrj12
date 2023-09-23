@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/rudraksh_j08" target="blank"><img src="https://img.shields.io/twitter/follow/rudraksh_j08?logo=twitter&style=for-the-badge" alt="rudraksh_j08" /></a> </p>
 
-- 🔭 I’m currently working on Web development and [Catrobat's open source project](https://github.com/Catrobat/Catroid)
+- 🔭 I’m currently working on Web development and DSA.
 
-- 🌱 I’m currently learning **Flutter and Catrobat**
+- 🌱 Doing projects on Web development and browser extensions.
 
-- 💬 Ask me about **Java, Unity and Games!**
+- 💬 Ask me about **React, Javascript and DSA!**
 
 - 📫 How to reach me **rudrakshjadhav@gmail.com**
 
