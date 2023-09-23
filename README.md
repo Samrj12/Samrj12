@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/rudraksh_j08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudraksh_j08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rudraksh-jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudraksh-jadhav" height="30" width="40" /></a>
-<a href="https://instagram.com/rudraksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudraksh" height="30" width="40" /></a>
+<a href="https://instagram.com/rudraksh.jadhavut25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudraksh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rudrakshjadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudrakshjadhav" height="30" width="40" /></a>
 <a href="https://discord.gg/samrj#9850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samrj#9850" height="30" width="40" /></a>
 </p>
