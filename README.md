@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rudraksh</h1>
 <h3 align="center">An aspiring programmer, game and web developer.</h3>
+<h2 align="center"><a href="https://rjadhav.tech">Portfolio</a></h2>
 <img align = "right" alt="while(alive): code()" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2N2U1MzRhYzgwNWZiNjIxZTcxYTMwMWU5OTdkNjlhMjZmZjZkMSZjdD1z/lnaoFgGrDHnivdu5Bc/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrj12&label=Profile%20views&color=0e75b6&style=flat" alt="samrj12" /> </p>
 
